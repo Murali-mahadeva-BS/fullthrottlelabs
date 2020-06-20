@@ -1,0 +1,1 @@
+web: gunicorn fullthrottlelabs_project.wsgi
